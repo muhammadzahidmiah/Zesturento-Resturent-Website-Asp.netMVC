@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zesturento", "Zesturento\Zesturento.csproj", "{F858D316-9598-47EC-856E-0EA12FE72A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F858D316-9598-47EC-856E-0EA12FE72A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F858D316-9598-47EC-856E-0EA12FE72A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F858D316-9598-47EC-856E-0EA12FE72A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F858D316-9598-47EC-856E-0EA12FE72A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB1A20E-2C37-483E-B7D3-1F8BD2CD9D4B}
+	EndGlobalSection
+EndGlobal
